@@ -13,5 +13,4 @@ jobs:
 workflows:
   main:
     jobs:
-      - run-cli   # ← fixed typo here
-```
+      - run-cli
